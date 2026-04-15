@@ -1,6 +1,6 @@
 ## Hi there 👋
-# 💫 About Me:
-🔭 Designing AI-powered systems using RAG pipelines and agentic workflows, along with scalable backend architectures using FastAPI and Node.js<br><br>👯 Open to collaborating on AI automation, and backend projects involving APIs and DevOps<br><br>🤝 Looking to gain hands-on experience in SIEM/SOC tools, AWS cloud security, and real-world system design<br><br>🌱 Currently learning cloud security (AWS), threat detection, SIEM workflows, and advanced agentic AI systems<br><br>💬 Happy to discuss Python, REST APIs, backend development, RAG systems, LangChain, and AI-based automation<br><br>⚡ I enjoy building intelligent systems that automate complex tasks and solve real-world problems 🚀<br>
+# 🧑‍💻 About Me:
+🔭 Designing AI-powered systems using RAG pipelines, LangChain, and agentic workflows, along with scalable backend architectures using FastAPI, NestJS, and Spring Boot<br><br>👯 Open to collaborating on AI applications, backend systems, and projects involving APIs, automation, and microservices<br><br>🤝 Building and deploying modular backend systems with REST APIs, JWT authentication, RBAC, and scalable architectures<br><br>🌱 Exploring advanced LLM applications, agentic AI systems, and scalable backend solutions for real-world use cases<br><br>💬 Ask me about Python, Java, backend development, REST APIs, RAG systems, LangChain, and AI-powered applications<br><br>⚡ I enjoy designing scalable systems and integrating AI to build efficient, real-world solutions 🚀
 
 
 ## 🌐 Socials:
